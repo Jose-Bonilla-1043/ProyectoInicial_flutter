@@ -1,2 +1,3 @@
 # ProyectoInicial_flutter
 Carpeta .idx mas archivo dev.nix mas instrucciones
+codigo
